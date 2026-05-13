@@ -68,9 +68,8 @@ A well-organized grocery shop interior with fully stocked shelves, fresh fruits 
 
 ---
 
-## Generated Images
 
-### Basic Generated Image
+### Basic Image
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/cdbec337-97cb-41ec-85fc-b3225175136d" />
 
