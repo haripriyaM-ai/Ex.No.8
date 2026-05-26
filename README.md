@@ -1,6 +1,5 @@
 # Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-### Date:
 ### Name : Hari Priya M
 ### Reg. No: 212224240047
 ---
